@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of weed flag](https://photos.google.com/photo/AF1QipM2isfPVLIOp3kP_VaZ2I43aRM0BRXtDJGNhkkk)
